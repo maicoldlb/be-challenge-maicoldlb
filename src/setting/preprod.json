@@ -1,0 +1,8 @@
+{
+    "api": {
+        "football": {
+            "url": "https://api.football-data.org",
+            "token": "47af48c9b5f240ae8a679b45d2f53d5d"
+        }
+    }
+}
